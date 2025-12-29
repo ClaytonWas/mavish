@@ -1,6 +1,6 @@
 # Mavish Game
 
-A first-person 3D game built with [raylib](https://www.raylib.com/).
+A first-person 3D engine built with [raylib](https://www.raylib.com/).
 
 ## Features
 
@@ -131,6 +131,7 @@ mavish/
 └── README.md
 ```
 
-## License
+## Screenshots
 
-MIT License - See LICENSE file for details.
+<img width="1284" height="767" alt="image" src="https://github.com/user-attachments/assets/2b525ca1-358e-4cb2-a940-1c22759befdd" />
+
