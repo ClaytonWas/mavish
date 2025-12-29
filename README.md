@@ -133,5 +133,5 @@ mavish/
 
 ## Screenshots
 
-<img width="1284" height="767" alt="image" src="https://github.com/user-attachments/assets/2b525ca1-358e-4cb2-a940-1c22759befdd" />
+<img width="1308" height="786" alt="image" src="https://github.com/user-attachments/assets/a17db659-6375-4df4-a91f-c4953792c1e6" />
 
